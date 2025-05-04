@@ -99,6 +99,8 @@ a {
     margin-bottom: 2rem;
 }
 
+
+
 /* Responsive layout for hero */
 @media (min-width: 768px) {
     .hero-content {
